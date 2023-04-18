@@ -1,0 +1,25 @@
+{
+  "name": "v18.16.0-win-x86",
+  "version": "1.0.0",
+  "description": "Node.js is an open-source, cross-platform JavaScript runtime environment.",
+  "main": "index.js",
+  "dependencies": {
+    "corepack": "^0.17.0",
+    "npm": "^9.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onyeka6411/gavi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/onyeka6411/gavi/issues"
+  },
+  "homepage": "https://github.com/onyeka6411/gavi#readme"
+}
